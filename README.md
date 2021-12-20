@@ -1,16 +1,15 @@
-# weathy
+# Weathy
 
-A new Flutter project.
+A basic weather app written in Dart with Flutter as GUI framework.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real time weather of current location.
+- Weather forecast of next 4 days.
+- Weather search of any specific city.
 
-A few resources to get you started if this is your first Flutter project:
+### Attribution
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- All the images in the assets folder belong to their
+  respective authors, and I have no ownership of them.
+  I lost the pages from which I downloaded them, so can't attribute either.
